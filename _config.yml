@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'When giant robots see...'
+tagline:          'changing world through robotic perception'
+description:      'My thoughts of building robots that can percieve the world'
+url:              http://users.wpi.edu/
+baseurl:          /~bpwiselybabu
+
+author:
+  name:           'Benzun Pious Wisely Babu'
+  url:            https://linkdln.com/bpwiselybabu
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
